@@ -1,4 +1,4 @@
-https://medium.com/javascript-in-plain-english/build-a-beautiful-job-search-app-using-react-7325c4d232c2
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
